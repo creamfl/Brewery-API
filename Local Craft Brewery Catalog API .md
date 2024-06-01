@@ -1,6 +1,6 @@
-#Local Craft Brewery Catalog API
+Local Craft Brewery Catalog API
 
-##Introduction
+Introduction
 An API for a local craft brewery catalog, detailing brewery profiles, beer listings, tasting notes, and customer reviews.
 
 ##Base URL
